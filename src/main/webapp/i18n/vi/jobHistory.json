@@ -1,0 +1,29 @@
+{
+  "demoJHipsterApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Job History",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Job History",
+        "notFound": "No Job Histories found"
+      },
+      "created": "Một Job History mới được tạo với định danh {{ param }}",
+      "updated": "Một Job History cập nhật với định danh {{ param }}",
+      "deleted": "Một Job History đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Job History {{ id }}?"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "id": "ID",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

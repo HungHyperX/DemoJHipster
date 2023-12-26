@@ -1,0 +1,26 @@
+{
+  "demoJHipsterApp": {
+    "task": {
+      "home": {
+        "title": "Tasks",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Task",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Task",
+        "notFound": "No Tasks found"
+      },
+      "created": "Một Task mới được tạo với định danh {{ param }}",
+      "updated": "Một Task cập nhật với định danh {{ param }}",
+      "deleted": "Một Task đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Task {{ id }}?"
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}

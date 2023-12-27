@@ -40,7 +40,27 @@ Một ứng dụng đẹp do JHipster tạo.
 npm i -g generator-jhipster@8.1.0
 ``
 
+## Demo tạo Project với MySQL
+- Bước 1: Tạo Project
+  Tạo thư mục **DemoJHipster**.
+  
+``
+mkdir DemoJHipster
+``
+
+``
+cd DemoJHipster
+``               
+
+![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/d1f11dbe-cda0-4245-a930-76420845254d)
+
+  Gõ lệnh
+  ``
+  jhipster
+  ``để bắt đầu, và cài đặt như trong hình.
+  
 ![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/3fabde63-dc17-449c-b46c-3453578a03d3)
+
 
 ![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/aaa39fce-ae41-4997-8a64-51dba8a9663f)
 

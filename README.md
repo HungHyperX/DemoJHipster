@@ -1,3 +1,32 @@
+# Demo JHipster với JDL Studio để tạo web
+
+## JHipster là gì?
+
+JHipster là một trình tạo mã cấp cao được xây dựng dựa trên một danh sách phong phú các công cụ và nền tảng phát triển tiên tiến.
+Các thành phần chính của công cụ là:
+
+Yeoman, một công cụ giàn giáo phía trước
+
+Old Good Spring Boot
+
+AngularJS, framework Javascript nổi bật. JHipster cũng làm việc với AngularJS 2
+
+JHipster tạo ra, chỉ với một vài lệnh shell, một dự án web Java chính thức với giao diện người dùng thân thiện, đáp ứng, REST API được lập thành văn bản, phạm vi kiểm tra toàn diện, bảo mật cơ bản và tích hợp cơ sở dữ liệu! Mã kết quả được nhận xét tốt và tuân theo các phương pháp hay nhất của ngành.
+Các công nghệ chính khác được nó tận dụng là:
+
+Swagger, cho tài liệu API
+
+Maven, Npm, Yarn, Gulp và Bower với tư cách là quản lý dependency và xây dựng công cụ
+
+Jasmine, Protractor, Cucumber và Gatling làm khung thử nghiệm
+
+Liquibase để lập phiên bản cơ sở dữ liệu
+
+Chúng ta không bắt buộc phải sử dụng tất cả các mục này trên ứng dụng đã tạo của chúng ta. Các mục tùy chọn được chọn trong quá trình tạo dự án.
+![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/b8536355-b051-40b5-833a-20c4bdb01206)
+
+Một ứng dụng đẹp do JHipster tạo.
+
 ![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/3fabde63-dc17-449c-b46c-3453578a03d3)
 
 ![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/aaa39fce-ae41-4997-8a64-51dba8a9663f)

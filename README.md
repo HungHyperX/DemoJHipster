@@ -27,6 +27,19 @@ Chúng ta không bắt buộc phải sử dụng tất cả các mục này trê
 
 Một ứng dụng đẹp do JHipster tạo.
 
+## Cài đặt JHipster
+
+- Bước 1: Cài đặt
+[JDK](https://www.oracle.com/java/technologies/downloads)
+- Bước 2: Cài đặt
+[NodeJS](https://nodejs.org/en/download)
+- Bước 3: Cài đặt Git
+- Bước 4: Cài đặt JHiupster 8
+  Mở cmd/terminal/Powershell, gõ lệnh
+``
+npm i -g generator-jhipster@8.1.0
+``
+
 ![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/3fabde63-dc17-449c-b46c-3453578a03d3)
 
 ![image](https://github.com/HungHyperX/DemoJHipster/assets/131465286/aaa39fce-ae41-4997-8a64-51dba8a9663f)
